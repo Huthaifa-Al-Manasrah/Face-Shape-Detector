@@ -1,0 +1,7 @@
+0 Diamond
+1 Heart
+2 Oblong
+3 Oval
+4 Round
+5 Square
+6 Triangle
